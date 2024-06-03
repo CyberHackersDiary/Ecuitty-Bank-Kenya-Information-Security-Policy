@@ -1,2 +1,4 @@
 # Eccuitty-Bank-Kenya-Information-Security-Policy
-Welcome to the official repository for the ISO/IEC 27001:2022 Lead Implementer Course case study for Stoopid Boy Animations Inc. This repository contains resources, documentation, and guidelines to help you understand and implement a robust Information Security Management System (ISMS) in line with ISO/IEC 27001:2022 standards.
+This repository contains the comprehensive Information Security Policy of Eccuitty Bank. Our policy is designed to protect customer data and ensure compliance with the highest standards of information security, including ISO/IEC 27001:2022.
+
+
