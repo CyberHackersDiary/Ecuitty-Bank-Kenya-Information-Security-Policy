@@ -1,4 +1,4 @@
 # Eccuitty-Bank-Kenya-Information-Security-Policy
-This repository contains the comprehensive Information Security Policy of Eccuitty Bank. Our policy is designed to protect customer data and ensure compliance with the highest standards of information security, including ISO/IEC 27001:2022.
+This repository contains the comprehensive Information Security Policy to that aims at strengthening Eccuitty Bank's Cyber Security posture. Our policy is designed to protect customer data and ensure compliance with the highest standards of information security, including ISO/IEC 27001:2022.
 
 
